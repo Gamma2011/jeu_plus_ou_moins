@@ -13,7 +13,7 @@
  * !Module          : 
  * !Description     :
  *
- * !Author          :                    !Date: 24.09.2021
+ * !Author          :                    !Date: 
  * !Coding Language : C
  *
  **********************************************************************************************************************/
@@ -37,7 +37,7 @@ int main(void)
     int Game = TRUE;
 
     printf("\n]==================================================[\n");
-    printf("       BIENVENUE DANS LE JEU \"plus ou moins\" !");
+    printf("       BIENVENUE DANS LE JEU \"PLUS OU MOINS\" QUE LA FORCE SOIT AVEC VOUS !");
     printf("\n]==================================================[\n");
 
     while(Game)
