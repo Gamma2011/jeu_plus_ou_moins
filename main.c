@@ -54,6 +54,9 @@ int main(void)
         {
             case 1:
                 printf("\n]===== REGLES DU JEU :\n");
+		printf("nLe but du jeu est de trouver le nombre mystère. Ce nombre est compris entre %d et %d. ", Min, Max);
+		printf("A chaque mauvaise réponse, vous perdrez des vie (par défaut %d) donc faites attentions ! ", NbLives);
+		printf("Vous gagnez la partie si vous trouvez le nombre mystère. Bonne chance !\n");
                 break;
             case 2:
                 printf("\n]===== PARAMETRES :\n");
