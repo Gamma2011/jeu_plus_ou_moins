@@ -37,7 +37,7 @@ int main(void)
     int Game = TRUE;
 
     printf("\n]==================================================[\n");
-    printf("       BIENVENUE DANS LE JEU \"PLUS OU MOINS\" !");
+    printf("       BIENVENUE DANS LE JEU \"PLUS OU MOINS\" QUE LA FORCE SOIT AVEC VOUS !");
     printf("\n]==================================================[\n");
 
     while(Game)
